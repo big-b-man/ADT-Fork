@@ -6,35 +6,35 @@ IMO this will give the program a larger reach as most people outside of academia
 
 # Progress
 
-adt.m: <span style="color:red">not implemented</span>
-advance_ratio.m: <span style="color:red">not implemented</span>
-aero_analysis.m: <span style="color:red">not implemented</span>
-ahp.m: <span style="color:red">not implemented</span>
-air_viscosity.m: <span style="color:red">not implemented</span>
-balance_forces_vertical.m: <span style="color:red">not implemented</span>
-blade_aoa.m: <span style="color:red">not implemented</span>
-build_mission.m: <span style="color:red">not implemented</span>
-build_vehicle.m: <span style="color:red">not implemented</span>
-design_space_analysis.m: <span style="color:red">not implemented</span>
-emissions.m: <span style="color:red">not implemented</span>
-energy_source_data.txt: <span style="color:red">not implemented</span>
-find_by_name.m: <span style="color:red">not implemented</span>
-find_by_type.m: <span style="color:red">not implemented</span>
-find_data.m: <span style="color:red">not implemented</span>
-find_network_components.m: <span style="color:red">not implemented</span>
-friction_coeff.m: <span style="color:red">not implemented</span>
-gwp_data.txt: <span style="color:red">not implemented</span>
-is_type.m: <span style="color:red">not implemented</span>
-llt.m: <span style="color:red">not implemented</span>
-load_project.m: <span style="color:red">not implemented</span>
-mass_analysis.m: <span style="color:red">not implemented</span>
-network_efficiency.m: <span style="color:red">not implemented</span>
-network_power.m: <span style="color:red">not implemented</span>
-plot_aircraft.m: <span style="color:red">not implemented</span>
-plot_mission.m: <span style="color:red">not implemented</span>
-prettyjson.m: <span style="color:red">not implemented</span>
-print_concepts.m: <span style="color:red">not implemented</span>
-read_file.m: <span style="color:red">not implemented</span>
-reynolds.m: <span style="color:red">not implemented</span>
-rotor_area.m: <span style="color:red">not implemented</span>
-save_project.m: <span style="color:red">not implemented</span>
+adt.m: not implemented
+advance_ratio.m: not implemented
+aero_analysis.m: not implemented
+ahp.m: not implemented
+air_viscosity.m: not implemented
+balance_forces_vertical.m: not implemented
+blade_aoa.m: not implemented
+build_mission.m: not implemented
+build_vehicle.m: not implemented
+design_space_analysis.m: not implemented
+emissions.m: not implemented
+energy_source_data.txt: not implemented
+find_by_name.m: not implemented
+find_by_type.m: not implemented
+find_data.m: not implemented
+find_network_components.m: not implemented
+friction_coeff.m: not implemented
+gwp_data.txt: not implemented
+is_type.m: not implemented
+llt.m: not implemented
+load_project.m: not implemented
+mass_analysis.m: not implemented
+network_efficiency.m: not implemented
+network_power.m: not implemented
+plot_aircraft.m: not implemented
+plot_mission.m: not implemented
+prettyjson.m: not implemented
+print_concepts.m: not implemented
+read_file.m: not implemented
+reynolds.m: not implemented
+rotor_area.m: not implemented
+save_project.m: not implemented
