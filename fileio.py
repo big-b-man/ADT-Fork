@@ -19,13 +19,15 @@
 
 import json, csv, numpy as np
 
-"""
+
 def load_project(filename):
     with open(filename, 'r') as file:
         data = json.load(file)
     return data
-"""
+
 #implementation of read_file() from read_file.m
+#returns an object containing the imported csv data.
+
 def read_file(filename, type):
     temp = []
     with open(filename) as file:
